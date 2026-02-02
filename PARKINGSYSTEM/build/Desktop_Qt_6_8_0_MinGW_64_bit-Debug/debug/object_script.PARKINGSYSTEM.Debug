@@ -1,0 +1,13 @@
+debug/HttpTool.o
+debug/MainWindow.o
+debug/exitpage.o
+debug/main.o
+debug/registerpage.o
+debug/trafficcontrolcenter.o
+debug/waitingpage.o
+debug/moc_HttpTool.o
+debug/moc_MainWindow.o
+debug/moc_exitpage.o
+debug/moc_registerpage.o
+debug/moc_trafficcontrolcenter.o
+debug/moc_waitingpage.o

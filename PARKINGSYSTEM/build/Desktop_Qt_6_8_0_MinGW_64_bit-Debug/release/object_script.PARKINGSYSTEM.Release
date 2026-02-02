@@ -1,0 +1,13 @@
+release/HttpTool.o
+release/MainWindow.o
+release/exitpage.o
+release/main.o
+release/registerpage.o
+release/trafficcontrolcenter.o
+release/waitingpage.o
+release/moc_HttpTool.o
+release/moc_MainWindow.o
+release/moc_exitpage.o
+release/moc_registerpage.o
+release/moc_trafficcontrolcenter.o
+release/moc_waitingpage.o
